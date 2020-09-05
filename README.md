@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is hosted on AWS Amplify, link for the website is [here](https://master.d1g7l91kbo6juj.amplifyapp.com/).
+
+AWS Amplify allows a CI/CD workflow for building, deploying and hosting single page web applications.
+
 ## Available Scripts
 
 In the project directory, you can run:
